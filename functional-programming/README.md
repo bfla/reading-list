@@ -16,7 +16,7 @@
 1. syntax errors
 2. unintended side effects
 - a "pure function" has no unintended side effects
-- functions should not manipulate or change their inputs
+- functions should not manipulate or change (or reference) their inputs
 
 ```
 // Common Gotcha:
@@ -33,4 +33,48 @@ var bar = function foo(params) {
   items = Object.create(params.items);
   return items;
 }
+```
+
+**Best way to define a function**
+```
+// 1. Function declaration
+function foo() {
+  
+}
+
+// 2. Unnamed Function Expression
+// Problem: The function will be anonymous (unnamed), meaning call stacks will
+// be harder to read.
+var foo = function() {
+  
+};
+
+
+// 3. Unnamed Method literal
+// Problem: The function will be anonymous (unnamed), meaning call stacks will
+// be harder to read.
+var fooObj = {
+  doSomething: function() {
+
+  }
+};
+
+// 4. Function() constructor (Bad idea.  Don't do this.)
+
+// 5. Named Function Expressions (Usually the best method)
+// Advantages: 
+// 1. The function has a name.  Callstacks are easy to read.
+// 2. The function can refer to itself within itself, allowing recursion.
+
+var foo = function foo() {
+  
+};
+
+var fooObject = {
+  myFunction: function myFunction() {
+
+  }
+};
+
+
 ```
