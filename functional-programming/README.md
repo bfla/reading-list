@@ -2,25 +2,21 @@
 
 **Guidelines**
 1. Don't repeat yourself
-- reuse logic
-- "quarantine" functionality to a single source
-
+-- reuse logic
+-- "quarantine" functionality to a single source
 2. Do One Thing
-
 3. Keep It Simple
-- don't be "too clever" or cryptic
-- a single line of code should usually not achieve more than 1 atomic goal
-
+-- don't be "too clever" or cryptic
+-- a single line of code should usually not achieve more than 1 atomic goal
 4. Less is More
-- keep functions as short as possible
-- <25 lines
+-- keep functions as short as possible
+-- <25 lines
 
 **2 Common Errors**
 1. syntax errors
-
 2. unintended side effects
-- a "pure function" has no unintended side effects
-- functions should not manipulate or change (or reference) their inputs
+-- a "pure function" has no unintended side effects
+-- functions should not manipulate or change (or reference) their inputs
 
 ```
 // Common Gotcha:
