@@ -68,6 +68,16 @@ var fooObject = {
 
   }
 };
-
-
 ```
+
+### Terminology
+- **First class functions**:
+- **Higher Order Function**:
+- **Functional programming**:
+- **Lambda**: A function that can be used as data.
+- **Closure**:
+- **IIFE (Immediately Invoked Function Expression)**
+- **Hoisting**:
+- **Function Polymorphism**:
+- **Partial Application**:
+- **Currying**:
