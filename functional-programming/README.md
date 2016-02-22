@@ -1,22 +1,14 @@
 ### Javascript Functions -- Best practices
 
-**Guidelines**
-1. Don't repeat yourself
--- reuse logic
--- "quarantine" functionality to a single source
-2. Do One Thing
-3. Keep It Simple
--- don't be "too clever" or cryptic
--- a single line of code should usually not achieve more than 1 atomic goal
-4. Less is More
--- keep functions as short as possible
--- <25 lines
+###Guidelines
+1. **Don't repeat yourself**. Reuse logic. "Quarantine" functionality to a single source.
+2. **Do One Thing**
+3. **Keep It Simple**. Don't be "too clever" or cryptic. A single line of code should usually not achieve more than 1 atomic goal.
+4. **Less is More**. Keep functions as short as possible (generally 25 lines maximum).
 
-**2 Common Errors**
-1. syntax errors
-2. unintended side effects
--- a "pure function" has no unintended side effects
--- functions should not manipulate or change (or reference) their inputs
+###2 Common Errors
+1. **Syntax errors**
+2. **Unintended side effects**: A "pure function" has no unintended side effects. Functions should not manipulate or change (or reference) their inputs.
 
 ```
 // Common Gotcha:
@@ -35,7 +27,7 @@ var bar = function foo(params) {
 }
 ```
 
-**Best way to define a function**
+###Best way to define a function
 ```
 // 1. Function declaration
 function foo() {
@@ -65,6 +57,7 @@ var fooObj = {
 // Advantages: 
 // 1. The function has a name.  Callstacks are easy to read.
 // 2. The function can refer to itself within itself, allowing recursion.
+// But... Keep in mind that the name is only available within the function.
 
 var foo = function foo() {
   
