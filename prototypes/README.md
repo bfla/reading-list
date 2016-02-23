@@ -20,6 +20,8 @@ breaking changes.
 - Creates a new object with another object as its prototype (delegate)
 - Alter objects without affecting other objects
 - Conserve memory (the prototype is just one object in memory)
+- Very useful for sharing public methods between objects
+- 'Flyweight pattern': Store reusable properties and methods on a delegate object. This way, objects don't create unnecessary copies that must be stored in memory. Some programmers use this for nearly every object, especially in memory-intensive applications like games.
 - Sharing state (nonmethod data) on a prototype is commonly considered an 
 anti-pattern. (Accidental mutations of shared properties are a common source of 
 bugs. This is partly due to the pitfall demonstrated below.)
@@ -48,7 +50,9 @@ myObj.meta = {name: 'new object with name'};
 
 2. **Prototype cloning**
 - Creates a copy
--
+- Less memory efficient than delegation (creates multiple copies of prototype properties)
+- Useful for copying data that cannot be safely shared between instances
+- This has the same pitfall as prototype delegation (above)
 ``` 
 _.extend({}, myProto) // using underscore.js
 // or
@@ -56,6 +60,16 @@ $.extend({}, myProto) // using jQuery
 // or in ES6
 Object.assign()
 ```
+
+3. ** `new` Keyword **
+- This can be dangerous and some javascript developers avoid the new keyword altogether (lots of blog posts on this).  
+- The prototype is whatever myObject’s prototype is, so in this pattern you lose access to the prototype properties if you overwrite them.  
+- You also end up with redundant copies of the object’s properties and methods, since every object has its own copy of everything.
+```
+var object = new myObject();
+```
+
+4. ** Factories **
 
 // Class-based inheritance (arguably disfavored)
 
