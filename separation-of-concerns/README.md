@@ -1,0 +1,11 @@
+### Client-side concerns
+- module management
+- events
+- presentation and DOM manipulation
+- insternationalization
+- data management and IO
+- routing (translating urls to script actions)
+- logging
+- analytics tracking
+- authentication
+- feature toggling (decouple code deployment and feature release)
