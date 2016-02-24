@@ -5,7 +5,7 @@
 - Add more here...
 
 ## Object Patterns
-- Favor
+- Favor prototype delegation and cloning (over other patterns)
 - Add more here...
 
 ### Separation of Concerns (Client-side)
