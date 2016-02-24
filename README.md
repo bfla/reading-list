@@ -3,13 +3,22 @@ If you have references to add, please submit pull requests!
 
 ## Function Patterns
 - 2 Pillars of Javascript -- Pt. 2 Functional Programming: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.59fwtwkyd 
+- Practical Functional Programming: https://www.youtube.com/watch?v=XcS-LdEBUkE
+- Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
+- Reactive Extensions for Javascript: https://github.com/Reactive-Extensions/RxJS
+- The Reactive Manifesto: http://www.reactivemanifesto.org/
+- Tutorials: Functional Programming in Javascript: http://reactivex.io/learnrx/
+- How I want to Write Node: Stream All Things: http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/
+- Highland.js: http://highlandjs.org/
 - Book: *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
+- Book: *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Object Patterns
-- 2 Pillars of Javascript (Part 1) [Prototypal Inheritence]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
+- 2 Pillars of Javascript (Part 1) [Prototype OO]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
 - Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
+- The Heart & Soul of Prototypal OO: Concatenative Inheritance: https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.uyq3xugqm
 - Book: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
-- Book: *Javascript: the Good Parts*
+- Book: *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Separation of Concerns (Client-side)
 - Module management
@@ -58,7 +67,7 @@ If you have references to add, please submit pull requests!
 - Blonk, a Tinder clone (Meteor, React, Ionic): https://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/
 
 ## Meteor resources:
-- Official Meteor Guide
+- Official Meteor Guide: http://guide.meteor.com/
 - Meteor Cookbook
 - Meteorhacks: https://meteorhacks.com/
 - Discover Meteor
@@ -67,3 +76,8 @@ If you have references to add, please submit pull requests!
 ## Meteor developers:
 - MeteorNerds: http://meteornerds.com/
 - Percolate Studio: http://percolatestudio.com/
+
+## Workflow
+- Book: *Getting Real: The smarter, faster, easier way to build a successful web application*
+- The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
+- How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
