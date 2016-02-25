@@ -139,7 +139,7 @@ If you have references to add, please submit pull requests!
 ## Similar lists:
 - [ ] Eric Elliot's javascript links: https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
 
-## Machine learning (not really javascript-related but oh well...)
+## Machine learning
 - [x] Intro to Machine Learning (Udacity): https://www.udacity.com/courses/ud120
 - [x] Intro to Hadoop and mapreduce (Udacity): https://www.udacity.com/courses/ud617
 - [ ] Deep Learning (Udacity): https://www.udacity.com/course/deep-learning--ud730
@@ -165,7 +165,7 @@ If you have references to add, please submit pull requests!
 - [x] Sketch styles: https://signalvnoise.com/posts/1880-the-different-sketch-styles-of-the-designers-at-37signals
 - [ ] UI Fundamentals (37signals): https://vimeo.com/6702766
 - [x] Book (good): *Whitespace is not your enemy*
-- [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills
+- [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills*
 
 ## Teamwork & management
 - [x] 5 Dysfunctions of a Team: http://www.tablegroup.com/books/dysfunctions
