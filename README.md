@@ -1,7 +1,7 @@
 # Reading list (javascript, full-stack development, startups, UX, and more)
 If you have references to add, please submit pull requests!
 
-## Function patterns
+## Function patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 2 Functional Programming: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.59fwtwkyd 
 - [ ] The Dao of immutability: https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.1ild14y75
 - [ ] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
@@ -18,14 +18,14 @@ If you have references to add, please submit pull requests!
 - [x] Book (awesome): *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
 - [x] Book (good): *Javascript: The Good Parts* (Douglas Crockford)
 
-## Object patterns
+## Object patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 1 Prototypes: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
 - [ ] Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
 - [ ] The Heart & Soul of Prototypal OO: Concatenative Inheritance: https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.uyq3xugqm
 - [x] Book, awesome: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
 - [x] Book, good: *Javascript: The Good Parts* (Douglas Crockford)
 
-## Separation of concerns (client-side)
+## Separation of concerns (client-side javascript)
 - Module management
 - Presentation (React, Angular, Backbone)
 - Event aggregator pattern (Flux, global bus, etc.)
@@ -40,10 +40,10 @@ If you have references to add, please submit pull requests!
 ## Separation of concerns (node.js)
 - Add references here...
 
-## Separation of concerns (meteor)
+## Separation of concerns (meteor.js)
 - [x] Microservices -- Cluster package: https://github.com/meteorhacks/cluster
 
-## React
+## React.js
 - [x] Thinking in React: https://facebook.github.io/react/docs/thinking-in-react.html
 - [x] Flux Overview: https://facebook.github.io/flux/docs/overview.html
 - [ ] Redux package: https://github.com/reactjs/redux
