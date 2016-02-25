@@ -3,18 +3,19 @@ If you have references to add, please submit pull requests!
 
 ## Function patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 2 Functional Programming: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.59fwtwkyd 
-- [ ] Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
+- [x] Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
+- [ ] Netflix training (The 'Observable' pattern): http://reactivex.io/learnrx/
 - [ ] The Dao of immutability: https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.1ild14y75
 - [ ] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
 - [ ] Practical Functional Programming: https://www.youtube.com/watch?v=XcS-LdEBUkE
 - [ ] Reactive Extensions for Javascript: https://github.com/Reactive-Extensions/RxJS
 - [ ] The Reactive Manifesto: http://www.reactivemanifesto.org/
-- [ ] Tutorials: Functional Programming in Javascript: http://reactivex.io/learnrx/
 - [ ] How I want to Write Node: Stream All Things: http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/
 - [ ] Understanding process.nextTick(): http://howtonode.org/understanding-process-next-tick
 - [ ] Zone.js: https://github.com/angular/zone.js/
 - [ ] Highland.js: http://highlandjs.org/
 - [ ] Mostly Adequate guide to functional programming: https://github.com/MostlyAdequate/mostly-adequate-guide
+- [x] Callback Hell Antipattern: http://callbackhell.com/
 - [x] Book (awesome): *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
 - [x] Book (good): *Javascript: The Good Parts* (Douglas Crockford)
 
