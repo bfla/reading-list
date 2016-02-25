@@ -19,7 +19,7 @@ If you have references to add, please submit pull requests!
 - (Book, good:) *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Object patterns
-- 2 Pillars of Javascript (Part 1) [Prototype OO]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
+- 2 Pillars of Javascript -- Pt. 1 Prototypes: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
 - Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
 - The Heart & Soul of Prototypal OO: Concatenative Inheritance: https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.uyq3xugqm
 - (Book, awesome:) *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
@@ -125,10 +125,9 @@ If you have references to add, please submit pull requests!
 - 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
 
 ## Software Architecture
-- (Book, awesome:) Rails Antipatterns (awesome book!)
-- (Book, awesome:) Service Oriented Architecture
-- (Book, mediocre:) Microservices
-- Code school Rails courses (paid course, but lots of good info in there)
+- (Book, awesome:) *Rails antipatterns: Best practice Ruby on Rails refactoring*
+- (Book, awesome:) *Service-oriented design with Ruby and Rails*
+- (Book, mediocre:) *Microservices: Designing fine-grained systems*
 - The 12 factor app: http://12factor.net/
 
 ## Meteor scalability
