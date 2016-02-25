@@ -3,10 +3,10 @@ If you have references to add, please submit pull requests!
 
 ## Function patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 2 Functional Programming: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.59fwtwkyd 
+- [ ] Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
 - [ ] The Dao of immutability: https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.1ild14y75
 - [ ] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
 - [ ] Practical Functional Programming: https://www.youtube.com/watch?v=XcS-LdEBUkE
-- [ ] Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
 - [ ] Reactive Extensions for Javascript: https://github.com/Reactive-Extensions/RxJS
 - [ ] The Reactive Manifesto: http://www.reactivemanifesto.org/
 - [ ] Tutorials: Functional Programming in Javascript: http://reactivex.io/learnrx/
@@ -26,6 +26,7 @@ If you have references to add, please submit pull requests!
 - [x] Book, good: *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Separation of concerns (client-side javascript)
+- Coming soon...
 - Module management
 - Presentation (React, Angular, Backbone)
 - Event aggregator pattern (Flux, global bus, etc.)
@@ -35,10 +36,6 @@ If you have references to add, please submit pull requests!
 - Logging
 - Analytics
 - Feature toggles (flags)
-- Add references here...
-
-## Separation of concerns (node.js)
-- Add references here...
 
 ## Separation of concerns (meteor.js)
 - [x] Microservices -- Cluster package: https://github.com/meteorhacks/cluster
@@ -54,27 +51,27 @@ If you have references to add, please submit pull requests!
 - [ ] Introduction to React.js (Facebook): https://www.youtube.com/watch?v=XxVg_s8xAms
 
 ## React + Meteor
-- [ ] Official React+Meteor docs: http://react-in-meteor.readthedocs.org/en/latest/
+- [x] Official React+Meteor docs: http://react-in-meteor.readthedocs.org/en/latest/
 - [x] React for Meteor Developers: http://blog.differential.com/react-for-meteor-developers/
-- [ ] Flux and Meteor (discussions): http://blog.differential.com/react-for-meteor-developers/
-- [ ] Flux and Meteor (more discussions): https://forums.meteor.com/
-- [ ] Flux Packaged for Meteor: https://github.com/froatsnook/meteor-alt
+- [x] Flux and Meteor (discussions): http://blog.differential.com/react-for-meteor-developers/
+- [x] Flux and Meteor (more discussions): https://forums.meteor.com/
+- [x] Flux Packaged for Meteor: https://github.com/froatsnook/meteor-alt
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 - [ ] Ionic vs React Native (with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
-- [ ] Meteor Routing Guide (React): https://kadira.io/academy/meteor-routing-guide/content/rendering-react-components
+- [x] Meteor Routing Guide (React): https://kadira.io/academy/meteor-routing-guide/content/rendering-react-components
 
 ## CSS
-- [ ] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
+- [x] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
 
 ## Testing
 - [x] Testing like the TSA: https://signalvnoise.com/posts/3159-testing-like-the-tsa 
-- [ ] Five parts of a Unit Test: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.i7v9lyvwn
+- [x] Five parts of a Unit Test: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.i7v9lyvwn
 - [x] Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
 
 ## Meteor testing
 - [x] Meteor acceptance tests: https://github.com/clinical-meteor/cookbook/blob/master/cookbook/writing.acceptance.test.md
 - [x] Velocity, unit testing, integration testing, & Jasmine (a bit stale): https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/
-- [ ] Seven Testing Modes of Meteor: http://xolv.io/blog-posts/2015/11/6/the-seven-testing-modes-of-meteor
+- [x] Seven Testing Modes of Meteor: http://xolv.io/blog-posts/2015/11/6/the-seven-testing-modes-of-meteor
 - [x] Meteor + codeship: http://stackoverflow.com/questions/30261036/meteor-codeship-modulus and http://stackoverflow.com/questions/27356247/testing-meteor-with-velocity-at-codeship
 - [x] Meteor+ Nightwatch: https://doctorllama.wordpress.com/2014/08/07/acceptance-testing-of-meteor-application-using-selenium-nightwatch-and-velocity/
 - [x] Meteor + Nightwatch: https://atmospherejs.com/velocity/nightwatch-framework
@@ -104,14 +101,15 @@ If you have references to add, please submit pull requests!
 - Percolate Studio: http://percolatestudio.com/
 
 ## Meteor workflow
-- [ ] Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
+- [x] Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
 - [x] Debugging Meteor: http://www.meteorpedia.com/read/Debugging
 
 ## Software Architecture
 - [x] Book, awesome: *Rails antipatterns: Best practice Ruby on Rails refactoring*
+- [x] The Lava layer antipattern: http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 - [x] Book, awesome: *Service-oriented design with Ruby and Rails*
 - [ ] Book, mediocre: *Microservices: Designing fine-grained systems*
-- [ ] The 12 factor app: http://12factor.net/
+- [x] The 12 factor app: http://12factor.net/
 
 ## Meteor scalability
 - [x] Livequery: https://www.meteor.com/livequery
