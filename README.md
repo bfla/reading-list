@@ -90,7 +90,7 @@ If you have references to add, please submit pull requests!
 
 ## Meteor resources:
 - Official Meteor Guide: http://guide.meteor.com/
-- Meteor Cookbook
+- The Meteor Chef: https://themeteorchef.com/
 - Meteorhacks: https://meteorhacks.com/
 - Discover Meteor
 - Crater.io: https://crater.io/
