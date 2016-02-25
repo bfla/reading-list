@@ -72,8 +72,12 @@ If you have references to add, please submit pull requests!
 - [x] Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
 
 ## Meteor testing
+- [x] Meteor acceptance tests: https://github.com/clinical-meteor/cookbook/blob/master/cookbook/writing.acceptance.test.md
 - [x] Velocity, unit testing, integration testing, & Jasmine (a bit stale): https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/
 - [ ] Seven Testing Modes of Meteor: http://xolv.io/blog-posts/2015/11/6/the-seven-testing-modes-of-meteor
+- [x] Meteor + codeship: http://stackoverflow.com/questions/30261036/meteor-codeship-modulus and http://stackoverflow.com/questions/27356247/testing-meteor-with-velocity-at-codeship
+- [x] Meteor+ Nightwatch: https://doctorllama.wordpress.com/2014/08/07/acceptance-testing-of-meteor-application-using-selenium-nightwatch-and-velocity/
+- [x] Meteor + Nightwatch: https://atmospherejs.com/velocity/nightwatch-framework
 
 ## Useful practice with Meteor
 - [x] Official Meteor tutorials
