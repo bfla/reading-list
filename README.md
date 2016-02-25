@@ -8,7 +8,7 @@ If you have references to add, please submit pull requests!
 - [x] The Dao of immutability: https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.1ild14y75
 - [x] Reactive Extensions for Javascript: https://github.com/Reactive-Extensions/RxJS
 - [x] Practical Functional Programming: https://www.youtube.com/watch?v=XcS-LdEBUkE
-- [ ] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
+- [x] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
 - [x] The Reactive Manifesto: http://www.reactivemanifesto.org/
 - [ ] How I want to Write Node: Stream All Things: http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/
 - [x] Understanding process.nextTick(): http://howtonode.org/understanding-process-next-tick
