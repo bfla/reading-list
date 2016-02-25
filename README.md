@@ -147,6 +147,8 @@ If you have references to add, please submit pull requests!
 ## Security:
 - [x] Why Meteor doesn't use session cookies: http://info.meteor.com/blog/session-cookies
 - [x] Diffie-Hellmann Key Exchange: https://www.youtube.com/watch?v=YEBfamv-_do
+- [ ] Book (good): Hacking: The art of exploitation
+- [ ] Book (good): Black hat Python: Python programming for hackers and pentesters
 
 ## Similar lists:
 - [ ] Eric Elliot's javascript links: https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
