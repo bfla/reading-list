@@ -112,6 +112,7 @@ If you have references to add, please submit pull requests!
 - [x] Become a command line ninja with these shortcuts: http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
 - [ ] Debug node.js like a pro: https://greenido.wordpress.com/2013/08/27/debug-nodejs-like-a-pro/
 - [ ] The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
+- [ ] Book (mediocre): *Continuous Delivery*
 
 ## Meteor workflow
 - [ ] Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
@@ -124,6 +125,16 @@ If you have references to add, please submit pull requests!
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
 
+## Startups
+- [x] Book (good): *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*
+- [x] Book (okay): *The Startup Owner's Manual*
+- [x] Book (okay): *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers*
+- [x] Book (good): *Venture Capital Due Diligence: A Guide to Making Smart Investment Choices and Increasing Your Portfolio Returns*
+- [x] Book (good): *The Dip: A Little Book That Teaches You When to Quit (and When to Stick)*
+- [x] Book (awesome): *Hackers and Painters: Big Ideas from the Computer Age*
+- [x] Book (good): *Startup CEO: A Field Guide to Scaling Up Your Business*
+- [x] Book (good): *Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist*
+
 ## Software Architecture
 - [x] Book, awesome: *Rails antipatterns: Best practice Ruby on Rails refactoring*
 - [x] Book, awesome: *Service-oriented design with Ruby and Rails*
@@ -132,6 +143,12 @@ If you have references to add, please submit pull requests!
 
 ## Meteor scalability
 - [ ] Livequery: https://www.meteor.com/livequery
+
+## Analytics
+- Most resources on this topic are terrible and IMO absolutely wrong. A few that are actually good:
+- [ ] Startup Metrics for pirates (by Dave McClure!!!): http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version
+- [ ] Book (good): *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*
+- [ ] 
 
 ## Front-end performance (& thingz)
 - [ ] Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
