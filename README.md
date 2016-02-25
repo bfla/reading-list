@@ -71,7 +71,7 @@ If you have references to add, please submit pull requests!
 - Five parts of a Unit Test: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.i7v9lyvwn
 - Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
 
-## Meteor Testing
+## Meteor testing
 - (A bit stale:) Velocity, unit testing, integration testing, & Jasmine https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/
 - Seven Testing Modes of Meteor: http://xolv.io/blog-posts/2015/11/6/the-seven-testing-modes-of-meteor
 
@@ -117,7 +117,7 @@ If you have references to add, please submit pull requests!
 - Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
 - Debugging Meteor: http://www.meteorpedia.com/read/Debugging
 
-## Teamwork, & management
+## Teamwork & management
 - 5 Dysfunctions of a Team: http://www.tablegroup.com/books/dysfunctions
 - How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
 - Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
@@ -152,7 +152,7 @@ If you have references to add, please submit pull requests!
 ## Similar lists:
 - Eric Elliot's javascript links: https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
 
-## Machine Learning (not really javascript-related but oh well...)
+## Machine learning (not really javascript-related but oh well...)
 - Intro to Machine Learning (Udacity): https://www.udacity.com/courses/ud120
 - Intro to Hadoop and mapreduce (Udacity): https://www.udacity.com/courses/ud617
 - Deep Learning (Udacity): https://www.udacity.com/course/deep-learning--ud730
