@@ -1,4 +1,4 @@
-# Javascript patterns
+# Javascript reading list
 If you have references to add, please submit pull requests!
 
 ## Function patterns
