@@ -69,10 +69,10 @@ If you have references to add, please submit pull requests!
 ## Testing
 - Testing like the TSA: https://signalvnoise.com/posts/3159-testing-like-the-tsa 
 - Five parts of a Unit Test: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.i7v9lyvwn
+- Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
 
 ## Meteor Testing
 - (A bit stale:) Velocity, unit testing, integration testing, & Jasmine https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/
-- Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
 - Seven Testing Modes of Meteor: http://xolv.io/blog-posts/2015/11/6/the-seven-testing-modes-of-meteor
 
 ## Useful practice with Meteor
