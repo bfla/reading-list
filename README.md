@@ -16,12 +16,13 @@ If you have references to add, please submit pull requests!
 - [x] Highland.js: http://highlandjs.org/
 - [ ] Mostly Adequate guide to functional programming: https://github.com/MostlyAdequate/mostly-adequate-guide
 - [x] Callback Hell Antipattern: http://callbackhell.com/
+- [ ] Enemy of the state: An introduction to functional reactive programming: https://vimeo.com/68987289
 - [x] Book (awesome): *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
 - [x] Book (good): *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Object patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 1 Prototypes: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
-- [ ] Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
+- [x] Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
 - [x] The Heart & Soul of Prototypal OO: Concatenative Inheritance: https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.uyq3xugqm
 - [x] Book, awesome: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
 - [x] Book, good: *Javascript: The Good Parts* (Douglas Crockford)
