@@ -15,15 +15,15 @@ If you have references to add, please submit pull requests!
 - [ ] Zone.js: https://github.com/angular/zone.js/
 - [ ] Highland.js: http://highlandjs.org/
 - [ ] Mostly Adequate guide to functional programming: https://github.com/MostlyAdequate/mostly-adequate-guide
-- [x] (Book, awesome:) *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
-- [x] (Book, good:) *Javascript: The Good Parts* (Douglas Crockford)
+- [x] Book (awesome): *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
+- [x] Book (good): *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Object patterns
 - [x] 2 Pillars of Javascript -- Pt. 1 Prototypes: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
 - [ ] Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
 - [ ] The Heart & Soul of Prototypal OO: Concatenative Inheritance: https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.uyq3xugqm
-- [x] (Book, awesome:) *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
-- [x] (Book, good:) *Javascript: The Good Parts* (Douglas Crockford)
+- [x] Book, awesome: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
+- [x] Book, good: *Javascript: The Good Parts* (Douglas Crockford)
 
 ## Separation of concerns (client-side)
 - Module management
@@ -72,12 +72,12 @@ If you have references to add, please submit pull requests!
 - [x] Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
 
 ## Meteor testing
-- [x] (A bit stale:) Velocity, unit testing, integration testing, & Jasmine https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/
+- [x] Velocity, unit testing, integration testing, & Jasmine (a bit stale): https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/
 - [ ] Seven Testing Modes of Meteor: http://xolv.io/blog-posts/2015/11/6/the-seven-testing-modes-of-meteor
 
 ## Useful practice with Meteor
 - [x] Official Meteor tutorials
-- [x] (Book/eBook, good intro to meteor): Discover Meteor
+- [x] Book/eBook, good intro to meteor: Discover Meteor
 - [ ] Semi-official Meteor-Ionic tutorial: http://www.angular-meteor.com/tutorials/whatsapp/
 - [ ] Tinder clone (React, Ionic): https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f#.2hz4h7u07
 - [ ] Slack clone: https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started
@@ -100,14 +100,14 @@ If you have references to add, please submit pull requests!
 - Percolate Studio: http://percolatestudio.com/
 
 ## UX
-- [x] (Book, not great but basic ideas are important:) *Don't Make Me Think*
+- [x] Book, not great but basic ideas are important: *Don't Make Me Think*
 - [x] Shorthand for designing UI Flows: https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
 - [x] Sketch styles: https://signalvnoise.com/posts/1880-the-different-sketch-styles-of-the-designers-at-37signals
 - [ ] UI Fundamentals (37signals): https://vimeo.com/6702766
 
 ## Workflow
-- [x] (Book, awesome:) *Getting Real: The smarter, faster, easier way to build a successful web application*
-- [ ] (TODO: Add sublime text cheatsheet, packages, and my own snippets...)
+- [x] Book, awesome: *Getting Real: The smarter, faster, easier way to build a successful web application*
+- [ ] TODO: Add sublime text cheatsheet, packages, and my own snippets...)
 - [x] Interactive vim tutorial (in case you need to edit code on a server): http://www.openvim.com/
 - [x] Become a command line ninja with these shortcuts: http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
 - [ ] Debug node.js like a pro: https://greenido.wordpress.com/2013/08/27/debug-nodejs-like-a-pro/
@@ -125,9 +125,9 @@ If you have references to add, please submit pull requests!
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
 
 ## Software Architecture
-- [x] (Book, awesome:) *Rails antipatterns: Best practice Ruby on Rails refactoring*
-- [x] (Book, awesome:) *Service-oriented design with Ruby and Rails*
-- [ ] (Book, mediocre:) *Microservices: Designing fine-grained systems*
+- [x] Book, awesome: *Rails antipatterns: Best practice Ruby on Rails refactoring*
+- [x] Book, awesome: *Service-oriented design with Ruby and Rails*
+- [ ] Book, mediocre: *Microservices: Designing fine-grained systems*
 - [ ] The 12 factor app: http://12factor.net/
 
 ## Meteor scalability
@@ -159,4 +159,4 @@ If you have references to add, please submit pull requests!
 - [x] OpenCV (computer vision): http://opencv.org/
 - [x] Wit.ai (speech control & natural language): https://wit.ai
 - [x] Try R (Codeschool): https://www.codeschool.com/courses/try-r
-- [ ] (Book, mediocre:) Machine learning: Hands on for developers and technical professionals
+- [ ] Book, mediocre: Machine learning: Hands on for developers and technical professionals
