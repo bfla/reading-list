@@ -114,8 +114,7 @@ If you have references to add, please submit pull requests!
 ## Meteor scalability
 - [x] Livequery: https://www.meteor.com/livequery
 
-## Analytics
-- Most resources on this topic are terrible and IMO absolutely wrong. A few that are actually good:
+## Analytics (done right!)
 - [x] Startup Metrics for pirates (by Dave McClure!!!): http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version
 - [x] Book (good): *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*
 - [x] Book (awesome): *Programming Javascript Applications* (the Chapters on logging and feature toggles)
