@@ -14,6 +14,7 @@ If you have references to add, please submit pull requests!
 - Understanding process.nextTick(): http://howtonode.org/understanding-process-next-tick
 - Zone.js: https://github.com/angular/zone.js/
 - Highland.js: http://highlandjs.org/
+- Mostly Adequate guide to functional programming: https://github.com/MostlyAdequate/mostly-adequate-guide
 - (Book, awesome:) *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
 - (Book, good:) *Javascript: The Good Parts* (Douglas Crockford)
 
@@ -50,6 +51,7 @@ If you have references to add, please submit pull requests!
 - Rethinking App Development at Facebook: https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw
 - Getting to know Flux: https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
 - Awesome React Packages: https://github.com/ericelliott/react-things
+- Introduction to React.js (Facebook): https://www.youtube.com/watch?v=XxVg_s8xAms
 
 ## React + Meteor
 - Official React+Meteor docs: http://react-in-meteor.readthedocs.org/en/latest/
@@ -84,6 +86,7 @@ If you have references to add, please submit pull requests!
 - Meteor+React Native Tutorial: http://blog.differential.com/meteor-react-native-learning-from-experience/
 - Blonk, a Tinder clone (Meteor, React, Ionic): https://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/
 - Ionic performance enhancements: http://tombuyse.com/improving-the-performance-of-your-ionic-application/
+- Meteor Fibers: https://meteorhacks.com/fibers-eventloop-and-meteor/
 
 ## Meteor resources:
 - Official Meteor Guide: http://guide.meteor.com/
@@ -103,8 +106,10 @@ If you have references to add, please submit pull requests!
 - UI Fundamentals (37signals): https://vimeo.com/6702766
 
 ## Workflow
+- (Book, awesome:) *Getting Real: The smarter, faster, easier way to build a successful web application*
 - (TODO: Add sublime text cheatsheet, packages, and my own snippets...)
 - Interactive vim tutorial (in case you need to edit code on a server): http://www.openvim.com/
+- Become a command line ninja with these shortcuts: http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
 - Debug node.js like a pro: https://greenido.wordpress.com/2013/08/27/debug-nodejs-like-a-pro/
 - The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
 
@@ -114,16 +119,17 @@ If you have references to add, please submit pull requests!
 
 ## Teamwork, & management
 - 5 Dysfunctions of a Team: http://www.tablegroup.com/books/dysfunctions
-- (Book, awesome:) *Getting Real: The smarter, faster, easier way to build a successful web application*
 - How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
 - Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
+- 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
 
 ## Software Architecture
 - (Book, awesome:) Rails Antipatterns (awesome book!)
 - (Book, awesome:) Service Oriented Architecture
 - (Book, mediocre:) Microservices
 - Code school Rails courses (paid course, but lots of good info in there)
+- The 12 factor app: http://12factor.net/
 
 ## Meteor scalability
 - Livequery: https://www.meteor.com/livequery
