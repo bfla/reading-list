@@ -170,8 +170,8 @@ If you have references to add, please submit pull requests!
 - [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills*
 
 ## Teamwork & management
-- [x] 5 Dysfunctions of a Team: http://www.tablegroup.com/books/dysfunctions
-- [ ] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
+- [x] 5 Dysfunctions of a Team (very important!): http://www.tablegroup.com/books/dysfunctions
+- [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
 - [ ] Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
