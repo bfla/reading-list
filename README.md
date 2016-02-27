@@ -157,7 +157,7 @@ If you have references to add, please submit pull requests!
 - [x] Interactive vim tutorial (in case you need to edit code on a server): http://www.openvim.com/
 - [x] Become a command line ninja with these shortcuts: http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
 - [ ] Debug node.js like a pro: https://greenido.wordpress.com/2013/08/27/debug-nodejs-like-a-pro/
-- [ ] The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
+- [x] The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
 - [x] Book (mediocre): *Continuous Delivery*
 
 ## UX
