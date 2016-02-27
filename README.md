@@ -97,6 +97,7 @@ If you have references to add, please submit pull requests!
 - Meteorhacks: https://meteorhacks.com/
 - Discover Meteor
 - Crater.io: https://crater.io/
+- Meteor Toys: https://meteor.toys/
 
 ## Meteor developers:
 - MeteorNerds: http://meteornerds.com/
