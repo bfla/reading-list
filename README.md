@@ -122,7 +122,7 @@ If you have references to add, please submit pull requests!
 - [x] Book (awesome): *Programming Javascript Applications* (the Chapters on logging and feature toggles)
 
 ## Front-end performance (& thingz)
-- [ ] Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+- [x] Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 - [ ] Critical rendering path: https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
 - [x] Metrics, metrics: How we improved our website performance: https://www.bignerdranch.com/blog/metrics-metrics-how-we-improved-website-performance-part-1/
 - [x] Accessibility guidelines: https://www.w3.org/WAI/intro/wcag
@@ -172,6 +172,7 @@ If you have references to add, please submit pull requests!
 ## Teamwork & management
 - [x] 5 Dysfunctions of a Team (very important!): http://www.tablegroup.com/books/dysfunctions
 - [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
+- [ ] Bringing change to life: https://vimeo.com/91537336
 - [ ] Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
