@@ -17,6 +17,7 @@ If you have references to add, please submit pull requests!
 - [ ] Mostly Adequate guide to functional programming: https://github.com/MostlyAdequate/mostly-adequate-guide
 - [x] Callback Hell Antipattern: http://callbackhell.com/
 - [ ] Enemy of the state: An introduction to functional reactive programming: https://vimeo.com/68987289
+- [ ] Discover Meteor - Reactivity: https://www.discovermeteor.com/blog/page/3/
 - [x] Book (awesome): *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
 - [x] Book (good): *Javascript: The Good Parts* (Douglas Crockford)
 
@@ -51,8 +52,13 @@ If you have references to add, please submit pull requests!
 - [x] Getting to know Flux: https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
 - [x] Awesome React Packages: https://github.com/ericelliott/react-things
 - [ ] Introduction to React.js (Facebook): https://www.youtube.com/watch?v=XxVg_s8xAms
+- [x] relay.js: https://facebook.github.io/relay/
+- [ ] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
+- [ ] Pure React components (example): https://github.com/ericelliott/react-pure-component-starter
+- [ ] The smart parent, dumb child pattern: https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.t21gz0wcn
 
 ## React + Meteor
+- [ ] From Blaze to React (part 1 of 8): https://www.discovermeteor.com/blog/blaze-to-react-01-introduction/ 
 - [x] Official React+Meteor docs: http://react-in-meteor.readthedocs.org/en/latest/
 - [x] React for Meteor Developers: http://blog.differential.com/react-for-meteor-developers/
 - [x] Flux and Meteor (discussions): http://blog.differential.com/react-for-meteor-developers/
@@ -61,6 +67,7 @@ If you have references to add, please submit pull requests!
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 - [ ] Ionic vs React Native (with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
 - [x] Meteor Routing Guide (React): https://kadira.io/academy/meteor-routing-guide/content/rendering-react-components
+- [x] The state of Meteor (Pt 3): https://www.discovermeteor.com/blog/the-state-of-meteor-part-3-aftermath/
 
 ## CSS
 - [x] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
