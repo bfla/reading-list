@@ -174,7 +174,9 @@ If you have references to add, please submit pull requests!
 ## Teamwork & management
 - [x] 5 Dysfunctions of a Team (very important!): http://www.tablegroup.com/books/dysfunctions
 - [x] Book (awesome): *Getting Real*
+- [x] Book (awesome): *Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All*: Greatness = (fanatical discipline + empirical creativity + productive paranoia) * level-5 ambition
 - [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
+- [x] The 20-mile march: http://www.jimcollins.com/books/great-by-choice.html
 - [ ] Bringing change to life: https://vimeo.com/91537336
 - [ ] Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
