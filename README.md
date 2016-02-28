@@ -39,6 +39,9 @@ If you have references to add, please submit pull requests!
 - Logging
 - Analytics
 - Feature toggles (flags)
+- [ ] Browserify handbook: https://github.com/substack/browserify-handbook
+- [x] Webpack vs Browserify: http://blog.namangoel.com/browserify-vs-webpack-js-drama
+- [x] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
 
 ## Separation of concerns (meteor.js)
 - [x] Microservices -- Cluster package: https://github.com/meteorhacks/cluster
@@ -53,7 +56,6 @@ If you have references to add, please submit pull requests!
 - [x] Awesome React Packages: https://github.com/ericelliott/react-things
 - [ ] Introduction to React.js (Facebook): https://www.youtube.com/watch?v=XxVg_s8xAms
 - [x] relay.js: https://facebook.github.io/relay/
-- [ ] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
 - [ ] Pure React components (example): https://github.com/ericelliott/react-pure-component-starter
 - [ ] The smart parent, dumb child pattern: https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.t21gz0wcn
 
