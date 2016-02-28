@@ -153,6 +153,15 @@ If you have references to add, please submit pull requests!
 - [x] Try R (Codeschool): https://www.codeschool.com/courses/try-r
 - [x] Book, mediocre: Machine learning: Hands on for developers and technical professionals
 
+## UX
+- [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
+- [x] Book (okay -- basic ideas are important): *Don't Make Me Think*
+- [x] Shorthand for designing UI Flows: https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
+- [x] Sketch styles: https://signalvnoise.com/posts/1880-the-different-sketch-styles-of-the-designers-at-37signals
+- [ ] UI Fundamentals (37signals): https://vimeo.com/6702766
+- [x] Book (good): *Whitespace is not your enemy*
+- [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills*
+
 ## Workflow
 - [x] Book, awesome: *Getting Real: The smarter, faster, easier way to build a successful web application*
 - [ ] TODO: Add sublime text cheatsheet, packages, and my own snippets...)
@@ -162,22 +171,13 @@ If you have references to add, please submit pull requests!
 - [x] The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
 - [x] Book (mediocre): *Continuous Delivery*
 
-## UX
-- [x] Book (awesome): *Getting Real*
-- [x] Book (okay -- basic ideas are important): *Don't Make Me Think*
-- [x] Shorthand for designing UI Flows: https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
-- [x] Sketch styles: https://signalvnoise.com/posts/1880-the-different-sketch-styles-of-the-designers-at-37signals
-- [ ] UI Fundamentals (37signals): https://vimeo.com/6702766
-- [x] Book (good): *Whitespace is not your enemy*
-- [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills*
-
 ## Teamwork & management
 - [x] 5 Dysfunctions of a Team (very important!): http://www.tablegroup.com/books/dysfunctions
-- [x] Book (awesome): *Getting Real*
-- [x] Book (awesome): *Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All*: Greatness = (fanatical discipline + empirical creativity + productive paranoia) * level-5 ambition
+- [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
+- [x] Book (awesome): *Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All*: `Greatness = (fanatical discipline + empirical creativity + productive paranoia) * level-5 ambition`
 - [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
-- [x] SCRUM meetings (see, e.g.: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.e7bdscgq3)
-- [x] The 20-mile march: http://www.jimcollins.com/books/great-by-choice.html
+- [x] SCRUM meetings (see, e.g.: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.mzvaf9yvh)
+- [x] The "20-mile march": http://www.jimcollins.com/books/great-by-choice.html
 - [ ] Bringing change to life: https://vimeo.com/91537336
 - [ ] Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
@@ -185,15 +185,17 @@ If you have references to add, please submit pull requests!
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
 
 ## Startups
-- [x] Book (awesome): *Getting Real*
+- [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
 - [ ] How to get good at making money (Jason Fried): http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html
 - [ ] 500 Hats: https://500hats.com/
 - [x] Startup Essays: http://www.paulgraham.com/articles.html
 - [x] Book (good): *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*
+- [ ] Book (good): *Startup CEO: Startup CEO: A Field Guide to Scaling Up Your Business, + Website*
 - [x] Book (okay): *The Startup Owner's Manual*
 - [x] Book (okay): *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers*
 - [x] Book (good): *Venture Capital Due Diligence: A Guide to Making Smart Investment Choices and Increasing Your Portfolio Returns*
 - [x] Book (good): *The Dip: A Little Book That Teaches You When to Quit (and When to Stick)*
 - [x] Book (good): *Hackers and Painters: Big Ideas from the Computer Age*
-- [x] Book (good): *Startup CEO: A Field Guide to Scaling Up Your Business*
+- [x] Book (good): *Startup CEO: A field guide to scaling up your business*
 - [x] Book (good): *Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist*
+- [ ] Book (good): *The hard thing about hard things*
