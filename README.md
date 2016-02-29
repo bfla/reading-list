@@ -192,6 +192,8 @@ If you have references to add, please submit pull requests!
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
 - [ ] Why hiring is so hard in tech: https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.2zggrd5s2
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
+- [ ] *Toyota Kata*
+- [ ] *Lean enterprise*
 
 ## Startups
 - [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
