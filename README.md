@@ -100,6 +100,7 @@ If you have references to add, please submit pull requests!
 - [x] Ionic performance enhancements: http://tombuyse.com/improving-the-performance-of-your-ionic-application/
 - [x] Meteor Fibers: https://meteorhacks.com/fibers-eventloop-and-meteor/
 - [ ] Meteor, Cordova, & Famo.us: The chill way to build apps: https://www.discovermeteor.com/blog/meteor-cordova-famous-the-chill-way-to-build-apps/
+- [ ] Meteor, Ionic, & Cordova: https://www.codetutorial.io/meteor-ionic-and-cordova-basic-tutorial/
 
 ## Meteor resources:
 - Official Meteor Guide: http://guide.meteor.com/
