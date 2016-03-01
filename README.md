@@ -59,6 +59,9 @@ If you have references to add, please submit pull requests!
 - [ ] Pure React components (example): https://github.com/ericelliott/react-pure-component-starter
 - [ ] The smart parent, dumb child pattern: https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.t21gz0wcn
 
+## Angular + Meteor
+- [x] Angular-meteor: http://www.angular-meteor.com/
+
 ## React + Meteor
 - [ ] From Blaze to React (part 1 of 8): https://www.discovermeteor.com/blog/blaze-to-react-01-introduction/ 
 - [x] Official React+Meteor docs: http://react-in-meteor.readthedocs.org/en/latest/
