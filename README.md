@@ -190,6 +190,7 @@ If you have references to add, please submit pull requests!
 
 ## Teamwork & management
 - [x] 5 Dysfunctions of a Team (very important!): http://www.tablegroup.com/books/dysfunctions
+- [ ] Thoughtbot playbook: http://playbook.thoughtbot.com/
 - [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
 - [x] Book (awesome): *Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All*: `Greatness = (fanatical discipline + empirical creativity + productive paranoia) * level-5 ambition`
 - [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
