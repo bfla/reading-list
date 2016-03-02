@@ -131,6 +131,8 @@ If you have references to add, please submit pull requests!
 ## Meteor scalability
 - [x] Livequery: https://www.meteor.com/livequery
 - [ ] Scaling Meteor: https://www.discovermeteor.com/blog/scaling-meteor-the-challenges-of-realtime-apps/
+- [ ] Scaling Meteor to 20,000 users in 7 days: http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/
+- [x] Does Meteor scale? https://meteorhacks.com/does-meteor-scale.html 
 
 ## Analytics (done right!)
 - [x] Startup Metrics for pirates (by Dave McClure!!!): http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version
