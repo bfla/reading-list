@@ -130,6 +130,7 @@ If you have references to add, please submit pull requests!
 
 ## Meteor scalability
 - [x] Livequery: https://www.meteor.com/livequery
+- [ ] Scaling Meteor: https://www.discovermeteor.com/blog/scaling-meteor-the-challenges-of-realtime-apps/
 
 ## Analytics (done right!)
 - [x] Startup Metrics for pirates (by Dave McClure!!!): http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version
