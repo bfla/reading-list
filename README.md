@@ -175,9 +175,11 @@ If you have references to add, please submit pull requests!
 - [x] Book (okay -- basic ideas are important): *Don't Make Me Think*
 - [x] Shorthand for designing UI Flows: https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
 - [x] Sketch styles: https://signalvnoise.com/posts/1880-the-different-sketch-styles-of-the-designers-at-37signals
+- [ ] Finding 'hard to find' customers: https://library.gv.com/finding-hard-to-find-customers-for-research-7847af187955#.g7tacwrwh
 - [ ] UI Fundamentals (37signals): https://vimeo.com/6702766
 - [x] Book (good): *Whitespace is not your enemy*
 - [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills*
+
 
 ## Workflow
 - [x] Book, awesome: *Getting Real: The smarter, faster, easier way to build a successful web application*
@@ -196,6 +198,7 @@ If you have references to add, please submit pull requests!
 - [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
 - [x] SCRUM meetings (see, e.g.: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.mzvaf9yvh)
 - [x] The "20-mile march": http://www.jimcollins.com/books/great-by-choice.html
+- [ ] Meetings that don't suck: https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.ibb01u3xo
 - [ ] Bringing change to life: https://vimeo.com/91537336
 - [ ] Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
