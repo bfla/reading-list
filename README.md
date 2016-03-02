@@ -212,6 +212,7 @@ If you have references to add, please submit pull requests!
 - [ ] How to get good at making money (Jason Fried): http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html
 - [ ] 500 Hats: https://500hats.com/
 - [x] Startup Essays: http://www.paulgraham.com/articles.html
+- [ ] Google Ventures Library: http://www.gv.com/library/
 - [x] Book (good): *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*
 - [ ] Book (good): *Startup CEO: Startup CEO: A Field Guide to Scaling Up Your Business, + Website*
 - [x] Book (okay): *The Startup Owner's Manual*
