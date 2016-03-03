@@ -207,8 +207,9 @@ If you have references to add, please submit pull requests!
 - [ ] Poll: What are the key skills to being a CTO? https://blog.codeship.com/key-cto-skills/
 - [ ] What leaders in tech wish they'd been told: https://blog.codeship.com/advice-from-leaders-in-tech/
 - [ ] Why hiring is so hard in tech: https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.2zggrd5s2
+- [x] Want the best person for the job?  Don't interview: https://www.bostonglobe.com/ideas/2013/11/24/want-best-person-for-job-don-interview/3LB4rwjf6i88GfaDoRubLN/story.html
 - [ ] 10 interview questions every javascript developer should know: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcjvhit4
-- [ ] Extreme Interviewing: https://www.menloinnovations.com/by-reading/PDF/Extreme-Interviewing-Final.pdf
+- [x] Extreme Interviewing: https://www.menloinnovations.com/by-reading/PDF/Extreme-Interviewing-Final.pdf
 - [ ] *Toyota Kata*
 - [ ] *Lean enterprise*
 
