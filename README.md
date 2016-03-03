@@ -61,6 +61,7 @@ If you have references to add, please submit pull requests!
 - [ ] React redux (starter kit): https://github.com/erikras/react-redux-universal-hot-example
 - [ ] React universal (starter kit): https://github.com/erikras/react-redux-universal-hot-example
 - [ ] React slingshot (starter kit): https://github.com/coryhouse/react-slingshot
+- [ ] React+Redux tutorial: http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
 
 ## Angular + Meteor
 - [x] Angular-meteor: http://www.angular-meteor.com/
