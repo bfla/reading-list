@@ -58,6 +58,8 @@ If you have references to add, please submit pull requests!
 - [x] relay.js: https://facebook.github.io/relay/
 - [ ] Pure React components (example): https://github.com/ericelliott/react-pure-component-starter
 - [ ] The smart parent, dumb child pattern: https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.t21gz0wcn
+- [ ] React universal (starter kit): https://github.com/erikras/react-redux-universal-hot-example
+- [ ] React slingshot (starter kit): https://github.com/coryhouse/react-slingshot
 
 ## Angular + Meteor
 - [x] Angular-meteor: http://www.angular-meteor.com/
