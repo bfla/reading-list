@@ -81,6 +81,7 @@ If you have references to add, please submit pull requests!
 - [x] Testing like the TSA: https://signalvnoise.com/posts/3159-testing-like-the-tsa 
 - [x] Five parts of a Unit Test: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.i7v9lyvwn
 - [x] Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
+- [ ] Rails test types and the testing period: https://robots.thoughtbot.com/rails-test-types-and-the-testing-pyramid
 
 ## Meteor testing
 - [x] Meteor acceptance tests: https://github.com/clinical-meteor/cookbook/blob/master/cookbook/writing.acceptance.test.md
