@@ -58,10 +58,13 @@ If you have references to add, please submit pull requests!
 - [x] relay.js: https://facebook.github.io/relay/
 - [ ] Pure React components (example): https://github.com/ericelliott/react-pure-component-starter
 - [ ] The smart parent, dumb child pattern: https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.t21gz0wcn
-- [ ] React redux (starter kit): https://github.com/erikras/react-redux-universal-hot-example
+- [ ] React+Redux tutorial: http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
+ 
+## React starter kits
+- [ ] React redux (starter kit): https://github.com/davezuko/react-redux-starter-kit
 - [ ] React universal (starter kit): https://github.com/erikras/react-redux-universal-hot-example
 - [ ] React slingshot (starter kit): https://github.com/coryhouse/react-slingshot
-- [ ] React+Redux tutorial: http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
+- [ ] React starter kit (complex): https://github.com/kriasoft/react-starter-kit
 
 ## Angular + Meteor
 - [x] Angular-meteor: http://www.angular-meteor.com/
@@ -184,7 +187,6 @@ If you have references to add, please submit pull requests!
 - [ ] UI Fundamentals (37signals): https://vimeo.com/6702766
 - [x] Book (good): *Whitespace is not your enemy*
 - [ ] Book, (good): *Creative workshop: 80 challenges to sharpen your design skills*
-
 
 ## Workflow
 - [x] Book, awesome: *Getting Real: The smarter, faster, easier way to build a successful web application*
