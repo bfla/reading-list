@@ -97,7 +97,7 @@ If you have references to add, please submit pull requests!
 ## Useful practice with Meteor
 - [x] Official Meteor tutorials
 - [x] Book/eBook, good intro to meteor: Discover Meteor
-- [ ] Semi-official Meteor-Ionic tutorial: http://www.angular-meteor.com/tutorials/whatsapp/
+- [x] Semi-official Meteor-Ionic tutorial: http://www.angular-meteor.com/tutorials/whatsapp/
 - [ ] Tinder clone (React, Ionic): https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f#.2hz4h7u07
 - [ ] Slack clone: https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started
 - [ ] Whatsapp Clone (Meteor, Ionic): http://info.meteor.com/blog/whatsapp-with-meteor-angular-and-ionic
