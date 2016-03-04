@@ -86,6 +86,7 @@ If you have references to add, please submit pull requests!
 - [ ] Ionic vs React Native (with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
 - [ ] Easy push notifications with Ionic: https://devdactic.com/ionic-push-notifications/
 - [ ] Sending and receiving push notifications in ionic apps: https://thinkster.io/ionic-push-notifications-tutorial
+- [ ] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 
 ## CSS
