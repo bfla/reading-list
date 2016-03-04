@@ -68,6 +68,7 @@ If you have references to add, please submit pull requests!
 
 ## Angular + Meteor
 - [x] Angular-meteor: http://www.angular-meteor.com/
+- [x] Ionic formulas: http://learn.ionicframework.com/formulas/
 
 ## React + Meteor
 - [ ] From Blaze to React (part 1 of 8): https://www.discovermeteor.com/blog/blaze-to-react-01-introduction/ 
