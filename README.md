@@ -66,10 +66,6 @@ If you have references to add, please submit pull requests!
 - [ ] React slingshot (starter kit): https://github.com/coryhouse/react-slingshot
 - [ ] React starter kit (complex): https://github.com/kriasoft/react-starter-kit
 
-## Angular + Meteor
-- [x] Angular-meteor: http://www.angular-meteor.com/
-- [x] Ionic formulas: http://learn.ionicframework.com/formulas/
-
 ## React + Meteor
 - [ ] From Blaze to React (part 1 of 8): https://www.discovermeteor.com/blog/blaze-to-react-01-introduction/ 
 - [x] Official React+Meteor docs: http://react-in-meteor.readthedocs.org/en/latest/
@@ -77,10 +73,18 @@ If you have references to add, please submit pull requests!
 - [x] Flux and Meteor (discussions): http://blog.differential.com/react-for-meteor-developers/
 - [x] Flux and Meteor (more discussions): https://forums.meteor.com/
 - [x] Flux Packaged for Meteor: https://github.com/froatsnook/meteor-alt
-- [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
-- [ ] Ionic vs React Native (with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
 - [x] Meteor Routing Guide (React): https://kadira.io/academy/meteor-routing-guide/content/rendering-react-components
 - [x] The state of Meteor (Pt 3): https://www.discovermeteor.com/blog/the-state-of-meteor-part-3-aftermath/
+
+## Angular + Meteor
+- [x] Angular-meteor: http://www.angular-meteor.com/
+
+## Cordova, Ionic, React Native, & Reapp
+- [x] Ionic formulas: http://learn.ionicframework.com/formulas/
+- [ ] Ionic vs React Native (with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
+- [ ] Easy push notifications with Ionic: https://devdactic.com/ionic-push-notifications/
+- [ ] Sending and receiving push notifications in ionic apps: https://thinkster.io/ionic-push-notifications-tutorial
+- [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 
 ## CSS
 - [x] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
@@ -103,10 +107,9 @@ If you have references to add, please submit pull requests!
 - [x] Official Meteor tutorials
 - [x] Book/eBook, good intro to meteor: Discover Meteor
 - [x] Semi-official Meteor-Ionic tutorial: http://www.angular-meteor.com/tutorials/whatsapp/
-- [ ] Tinder clone (React, Ionic): https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f#.2hz4h7u07
-- [ ] Slack clone: https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started
-- [ ] Whatsapp Clone (Meteor, Ionic): http://info.meteor.com/blog/whatsapp-with-meteor-angular-and-ionic
+- [x] Tinder clone (React, Ionic): https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f#.2hz4h7u07
 - [ ] Blog (Meteor, Ionic, Cordova): https://www.codetutorial.io/meteor-ionic-and-cordova-basic-tutorial/
+- [ ] Slack clone: https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started
 - [ ] Meteor+React Native Tutorial: http://blog.differential.com/meteor-react-native-learning-from-experience/
 - [ ] Blonk, a Tinder clone (Meteor, React, Ionic): https://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/
 - [x] Ionic performance enhancements: http://tombuyse.com/improving-the-performance-of-your-ionic-application/
