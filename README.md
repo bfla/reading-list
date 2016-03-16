@@ -52,6 +52,7 @@ If you have references to add, please submit pull requests!
 - [ ] Redux package: https://github.com/reactjs/redux
 - [ ] RESTful UI Rendering: https://www.youtube.com/watch?v=IVvHPPcl2TM
 - [ ] Rethinking App Development at Facebook: https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw
+- [ ] React: Rethinking best practices: https://www.youtube.com/watch?v=x7cQ3mrcKaY
 - [x] Getting to know Flux: https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
 - [x] Awesome React Packages: https://github.com/ericelliott/react-things
 - [ ] Introduction to React.js (Facebook): https://www.youtube.com/watch?v=XxVg_s8xAms
@@ -79,26 +80,31 @@ If you have references to add, please submit pull requests!
 ## Angular + Meteor
 - [x] Angular-meteor: http://www.angular-meteor.com/
 
-## Hybrid apps (Ionic, React Native, Famo.us, Reapp, Cordova/Phonegap)
-- [x] Ionic formulas: http://learn.ionicframework.com/formulas/
-- [x] ngCordova plugins: http://ngcordova.com/docs/plugins/pushNotifications/
-- [x] Developing Cordova plugins: https://cordova.apache.org/docs/en/4.0.0/guide/hybrid/plugins/
-- [ ] Easy push notifications with Ionic: https://devdactic.com/ionic-push-notifications/
-- [ ] Sending and receiving push notifications in ionic apps: https://thinkster.io/ionic-push-notifications-tutorial
-- [ ] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
-- [ ] IonicPush: https://apps.ionic.io/landing/push
-- [x] Ionic vs React Native ("Bus in Time" app with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
+## Hybrid apps with React Native
 - [x] Video - Introducing React Native: https://www.youtube.com/watch?v=KVZ-P-ZI6W4
 - [x] Video - Deep dive into React Native: https://www.youtube.com/watch?v=7rDsRXj9-cU 
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 - [ ] React Native + Meteor by example: http://justmeteor.com/blog/friends-connecting-meteor-and-react-native-by-example/
 - [ ] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
 - [ ] Some thoughts on glueing Meteor and React Native: http://hharnisc.github.io/2015/04/15/react-native-and-meteor.html
-- [ ] React Native + MEteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
+- [ ] React Native + Meteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
 - [ ] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
 - [x] React Native Meteor npm package: https://www.npmjs.com/package/react-native-meteor
 
+## Hybrid apps - other (Ionic, Famo.us, Cordova/Phonegap)
+- [x] Ionic formulas: http://learn.ionicframework.com/formulas/
+- [x] ngCordova plugins: http://ngcordova.com/docs/plugins/pushNotifications/
+- [x] Developing Cordova plugins: https://cordova.apache.org/docs/en/4.0.0/guide/hybrid/plugins/
+- [x] Easy push notifications with Ionic: https://devdactic.com/ionic-push-notifications/
+- [x] Sending and receiving push notifications in ionic apps: https://thinkster.io/ionic-push-notifications-tutorial
+- [x] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
+- [x] IonicPush: https://apps.ionic.io/landing/push
+- [x] Ionic vs React Native ("Bus in Time" app with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
+
 ## CSS
+- [x] Object-oriented css: https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
+- [x] Guide to flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- [x] Flexy boxes interactive tool: http://the-echoplex.net/flexyboxes/
 - [x] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
 
 ## Testing
