@@ -89,13 +89,14 @@ If you have references to add, please submit pull requests!
 - [ ] IonicPush: https://apps.ionic.io/landing/push
 - [x] Ionic vs React Native ("Bus in Time" app with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
 - [x] Video - Introducing React Native: https://www.youtube.com/watch?v=KVZ-P-ZI6W4
+- [x] Video - Deep dive into React Native: https://www.youtube.com/watch?v=7rDsRXj9-cU 
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 - [ ] React Native + Meteor by example: http://justmeteor.com/blog/friends-connecting-meteor-and-react-native-by-example/
 - [ ] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
 - [ ] Some thoughts on glueing Meteor and React Native: http://hharnisc.github.io/2015/04/15/react-native-and-meteor.html
 - [ ] React Native + MEteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
 - [ ] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
-- [x] React Meteor npm package: https://www.npmjs.com/package/react-native-meteor
+- [x] React Native Meteor npm package: https://www.npmjs.com/package/react-native-meteor
 
 ## CSS
 - [x] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
