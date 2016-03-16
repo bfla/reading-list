@@ -139,6 +139,8 @@ If you have references to add, please submit pull requests!
 ## Meteor developers:
 - MeteorNerds: http://meteornerds.com/
 - Percolate Studio: http://percolatestudio.com/
+- Differential: https://differential.com/services/meteor
+- Meteor Factory: http://meteorfactory.io/
 
 ## Meteor workflow
 - [x] Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
