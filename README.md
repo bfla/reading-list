@@ -197,6 +197,7 @@ If you have references to add, please submit pull requests!
 
 ## Machine learning
 - [x] Intro to Machine Learning (Udacity): https://www.udacity.com/courses/ud120
+- [x] Top 10 data mining algorithms: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 - [x] Intro to Hadoop and mapreduce (Udacity): https://www.udacity.com/courses/ud617
 - [ ] Deep Learning (Udacity): https://www.udacity.com/course/deep-learning--ud730
 - [x] scikit-learn (python package): http://scikit-learn.org/stable/
@@ -204,6 +205,7 @@ If you have references to add, please submit pull requests!
 - [x] Wit.ai (speech control & natural language): https://wit.ai
 - [x] Try R (Codeschool): https://www.codeschool.com/courses/try-r
 - [x] Book, mediocre: Machine learning: Hands on for developers and technical professionals
+- [x] This list is much more thorough: http://steveblank.com/tools-and-blogs-for-entrepreneurs/
 
 ## UX
 - [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
