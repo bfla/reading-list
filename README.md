@@ -85,14 +85,15 @@ If you have references to add, please submit pull requests!
 - [x] Angular-meteor: http://www.angular-meteor.com/
 
 ## Hybrid apps with React Native
+- [x] React Native tutorial (official): https://facebook.github.io/react-native/docs/tutorial.html#content
 - [x] Video - Introducing React Native: https://www.youtube.com/watch?v=KVZ-P-ZI6W4
 - [x] Video - Deep dive into React Native: https://www.youtube.com/watch?v=7rDsRXj9-cU 
-- [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
+- [x] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
+- [x] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
 - [ ] React Native + Meteor by example: http://justmeteor.com/blog/friends-connecting-meteor-and-react-native-by-example/
-- [ ] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
-- [ ] Some thoughts on glueing Meteor and React Native: http://hharnisc.github.io/2015/04/15/react-native-and-meteor.html
-- [ ] React Native + Meteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
-- [ ] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
+- [x] Some thoughts on glueing Meteor and React Native: http://hharnisc.github.io/2015/04/15/react-native-and-meteor.html
+- [x] React Native + Meteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
+- [x] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
 - [x] React Native Meteor npm package: https://www.npmjs.com/package/react-native-meteor
 
 ## Hybrid apps - other (Ionic, Famo.us, Cordova/Phonegap)
