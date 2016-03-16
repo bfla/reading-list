@@ -28,23 +28,25 @@ If you have references to add, please submit pull requests!
 - [x] Book, awesome: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
 - [x] Book, good: *Javascript: The Good Parts* (Douglas Crockford)
 
-## Separation of concerns (client-side javascript)
-- Coming soon...
-- Module management
-- Presentation (React, Angular, Backbone)
-- Event aggregator pattern (Flux, global bus, etc.)
-- Data management and IO
-- Routing
+## Front-end separation of concerns: 
+- Module management: Webpacks, Browserify, Isopacks (Meteor)
+- Presentation: React, Angular, Backbone
+- Event aggregator: Redux, Flux, global bus, Backbone event aggregators
+- Data management and IO: Rx, jQuery, http-browser, Angular services, Backbone models/collections
+- Routing: React Router, Angular Router, Backbone Router, Flow Rlouter (Meteor)
 - Authentication
-- Logging
-- Analytics
-- Feature toggles (flags)
+- Logging???
+- Analytics: Mixpanel, Google Analytics
+- Feature toggles (flags): For example, https://github.com/ericelliott/feature-toggle?
+
+## Front-end module management
 - [ ] Browserify handbook: https://github.com/substack/browserify-handbook
 - [x] Webpack vs Browserify: http://blog.namangoel.com/browserify-vs-webpack-js-drama
 - [x] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
 
 ## Separation of concerns (meteor.js)
-- [x] Microservices -- Cluster package: https://github.com/meteorhacks/cluster
+- [x] Meteor Boilerplate: https://github.com/Differential/meteor-boilerplate
+- [x] Cluster package: https://github.com/meteorhacks/cluster
 
 ## React.js
 - [x] Thinking in React: https://facebook.github.io/react/docs/thinking-in-react.html
