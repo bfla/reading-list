@@ -88,7 +88,7 @@ If you have references to add, please submit pull requests!
 - [ ] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
 - [ ] IonicPush: https://apps.ionic.io/landing/push
 - [x] Ionic vs React Native ("Bus in Time" app with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
-- [ ] React Native Introduction video: https://www.youtube.com/watch?v=KVZ-P-ZI6W4
+- [x] Video - Introducing React Native: https://www.youtube.com/watch?v=KVZ-P-ZI6W4
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 - [ ] React Native + Meteor by example: http://justmeteor.com/blog/friends-connecting-meteor-and-react-native-by-example/
 - [ ] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
@@ -120,7 +120,7 @@ If you have references to add, please submit pull requests!
 - [x] Tinder clone (React, Ionic): https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f#.2hz4h7u07
 - [ ] Blog (Meteor, Ionic, Cordova): https://www.codetutorial.io/meteor-ionic-and-cordova-basic-tutorial/
 - [ ] Slack clone: https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started
-- [ ] Meteor+React Native Tutorial: http://blog.differential.com/meteor-react-native-learning-from-experience/
+- [x] Meteor+React Native Tutorial: http://blog.differential.com/meteor-react-native-learning-from-experience/
 - [ ] Blonk, a Tinder clone (Meteor, React, Ionic): https://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/
 - [x] Ionic performance enhancements: http://tombuyse.com/improving-the-performance-of-your-ionic-application/
 - [x] Meteor Fibers: https://meteorhacks.com/fibers-eventloop-and-meteor/
