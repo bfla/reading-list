@@ -88,6 +88,7 @@ If you have references to add, please submit pull requests!
 - [ ] Sending and receiving push notifications in ionic apps: https://thinkster.io/ionic-push-notifications-tutorial
 - [ ] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
 - [ ] IonicPush: https://apps.ionic.io/landing/push
+- [ ] React Native Introduction video: https://www.youtube.com/watch?v=KVZ-P-ZI6W4
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
 - [ ] React Native + Meteor by example: http://justmeteor.com/blog/friends-connecting-meteor-and-react-native-by-example/
 - [ ] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
