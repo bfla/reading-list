@@ -62,10 +62,12 @@ If you have references to add, please submit pull requests!
 - [ ] React+Redux tutorial: http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
  
 ## React starter kits
-- [ ] React redux (starter kit): https://github.com/davezuko/react-redux-starter-kit
-- [ ] React universal (starter kit): https://github.com/erikras/react-redux-universal-hot-example
-- [ ] React slingshot (starter kit): https://github.com/coryhouse/react-slingshot
+- [ ] React redux starter kit: https://github.com/davezuko/react-redux-starter-kit
+- [ ] React universal starter kit: https://github.com/erikras/react-redux-universal-hot-example
+- [ ] React slingshot starter kit: https://github.com/coryhouse/react-slingshot
 - [ ] React starter kit (complex): https://github.com/kriasoft/react-starter-kit
+- [ ] React boilerplate: https://github.com/gaearon/react-transform-boilerplate
+- [ ] React transform boilerplate: https://github.com/gaearon/react-transform-boilerplate
 
 ## React + Meteor
 - [ ] From Blaze to React (part 1 of 8): https://www.discovermeteor.com/blog/blaze-to-react-01-introduction/ 
@@ -111,7 +113,7 @@ If you have references to add, please submit pull requests!
 - [x] Testing like the TSA: https://signalvnoise.com/posts/3159-testing-like-the-tsa 
 - [x] Five parts of a Unit Test: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.i7v9lyvwn
 - [x] Why I use Tape instead of Mocha and so should you: https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.zde56a509
-- [ ] Rails test types and the testing period: https://robots.thoughtbot.com/rails-test-types-and-the-testing-pyramid
+- [x] Rails test types and the testing period: https://robots.thoughtbot.com/rails-test-types-and-the-testing-pyramid
 
 ## Meteor testing
 - [x] Meteor acceptance tests: https://github.com/clinical-meteor/cookbook/blob/master/cookbook/writing.acceptance.test.md
@@ -139,7 +141,7 @@ If you have references to add, please submit pull requests!
 - Official Meteor Guide: http://guide.meteor.com/
 - The Meteor Chef: https://themeteorchef.com/
 - Meteorhacks: https://meteorhacks.com/
-- Discover Meteor
+- Discover Meteor: https://www.discovermeteor.com/
 - Crater.io: https://crater.io/
 - Meteor Toys: https://meteor.toys/
 - Just Meteor: http://justmeteor.com/
@@ -149,6 +151,8 @@ If you have references to add, please submit pull requests!
 - Percolate Studio: http://percolatestudio.com/
 - Differential: https://differential.com/services/meteor
 - Meteor Factory: http://meteorfactory.io/
+- Nate Strausser (WeWorkMeteor): http://natestrauser.me/
+- Meteorhacks/Kadira/Bulletproof Meteor: https://kadira.io/academy
 
 ## Meteor workflow
 - [x] Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
