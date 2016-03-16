@@ -165,7 +165,8 @@ If you have references to add, please submit pull requests!
 - [ ] Book, mediocre: *Microservices: Designing fine-grained systems*
 - [x] The 12 factor app: http://12factor.net/
 
-## Meteor scalability
+## Meteor scalability & performance:
+- [ ] Meteor Performance 101: https://kadira.io/academy/meteor-performance-101
 - [x] Livequery: https://www.meteor.com/livequery
 - [x] Scaling Meteor: https://www.discovermeteor.com/blog/scaling-meteor-the-challenges-of-realtime-apps/
 - [x] Scaling Meteor to 20,000 users in 7 days: http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/
