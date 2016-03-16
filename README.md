@@ -96,7 +96,7 @@ If you have references to add, please submit pull requests!
 - [x] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
 - [x] React Native Meteor npm package: https://www.npmjs.com/package/react-native-meteor
 
-## Hybrid apps - other (Ionic, Famo.us, Cordova/Phonegap)
+## Hybrid apps - other (Ionic, Famo.us, Cordova/Phonegap, Electron)
 - [x] Ionic formulas: http://learn.ionicframework.com/formulas/
 - [x] ngCordova plugins: http://ngcordova.com/docs/plugins/pushNotifications/
 - [x] Developing Cordova plugins: https://cordova.apache.org/docs/en/4.0.0/guide/hybrid/plugins/
@@ -105,6 +105,8 @@ If you have references to add, please submit pull requests!
 - [x] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
 - [x] IonicPush: https://apps.ionic.io/landing/push
 - [x] Ionic vs React Native ("Bus in Time" app with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
+- [ ] Video - Meteor + Famo.us: https://www.youtube.com/watch?v=QR-TWyeQuOI
+- [ ] Video - Meteor Desktop apps with Electron: https://www.youtube.com/watch?v=W6SyBU24S7A
 
 ## CSS
 - [x] Object-oriented css: https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
