@@ -195,9 +195,6 @@ If you have references to add, please submit pull requests!
 - [x] Book (good): Hacking: The art of exploitation
 - [x] Book (good): Black hat Python: Python programming for hackers and pentesters
 
-## Similar lists:
-- [ ] Eric Elliot's javascript links: https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
-
 ## Machine learning
 - [x] Intro to Machine Learning (Udacity): https://www.udacity.com/courses/ud120
 - [x] Intro to Hadoop and mapreduce (Udacity): https://www.udacity.com/courses/ud617
@@ -262,3 +259,7 @@ If you have references to add, please submit pull requests!
 - [x] Book (good): *Startup CEO: A field guide to scaling up your business*
 - [x] Book (good): *Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist*
 - [ ] Book (good): *The hard thing about hard things*
+
+## Similar lists:
+- Eric Elliot's javascript links: https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
+- Steve Blank: http://steveblank.com/tools-and-blogs-for-entrepreneurs/
