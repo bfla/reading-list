@@ -79,7 +79,7 @@ If you have references to add, please submit pull requests!
 ## Angular + Meteor
 - [x] Angular-meteor: http://www.angular-meteor.com/
 
-## Cordova, Ionic, React Native, & Reapp
+## Hybrid apps (Ionic, React Native, Famo.us, Reapp, Cordova/Phonegap)
 - [x] Ionic formulas: http://learn.ionicframework.com/formulas/
 - [x] ngCordova plugins: http://ngcordova.com/docs/plugins/pushNotifications/
 - [x] Developing Cordova plugins: https://cordova.apache.org/docs/en/4.0.0/guide/hybrid/plugins/
@@ -89,6 +89,11 @@ If you have references to add, please submit pull requests!
 - [ ] ngCordova push notifications: http://ngcordova.com/docs/plugins/pushNotifications/
 - [ ] IonicPush: https://apps.ionic.io/landing/push
 - [ ] React Native with Meteor: http://blog.differential.com/author/spencer-carli/
+- [ ] React Native + Meteor by example: http://justmeteor.com/blog/friends-connecting-meteor-and-react-native-by-example/
+- [ ] React Native + Meteor example project: https://github.com/hharnisc/react-native-meteor
+- [ ] Some thoughts on glueing Meteor and React Native: http://hharnisc.github.io/2015/04/15/react-native-and-meteor.html
+- [ ] React Native + MEteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
+- [ ] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
 
 ## CSS
 - [x] Meteor and Twitter Bootstrap (the right way): http://www.manuel-schoebel.com/blog/meteorjs-and-twitter-bootstrap---the-right-way
@@ -128,6 +133,7 @@ If you have references to add, please submit pull requests!
 - Discover Meteor
 - Crater.io: https://crater.io/
 - Meteor Toys: https://meteor.toys/
+- Just Meteor: http://justmeteor.com/
 
 ## Meteor developers:
 - MeteorNerds: http://meteornerds.com/
