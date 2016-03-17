@@ -197,6 +197,7 @@ If you have references to add, please submit pull requests!
 
 ## Security:
 - [x] Ruby on Rails security guide: http://guides.rubyonrails.org/security.html
+- [x] Google Developers - Security: https://developers.google.com/web/fundamentals/security/?hl=en
 - [x] Why you should always use HTTPS: https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https?hl=en
 - [x] Prevent mixed content: https://developers.google.com/web/fundamentals/security/prevent-mixed-content/?hl=en
 - [x] XSS: https://developers.google.com/web/fundamentals/security/csp/?hl=en
