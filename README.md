@@ -196,8 +196,12 @@ If you have references to add, please submit pull requests!
 - [x] Meteorhacks: https://github.com/meteorhacks/code-standards
 
 ## Security:
-- [x] Why Meteor doesn't use session cookies: http://info.meteor.com/blog/session-cookies
+- [x] Why you should always use HTTPS: https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https?hl=en
+- [x] Prevent mixed content: https://developers.google.com/web/fundamentals/security/prevent-mixed-content/?hl=en
+- [x] XSS: https://developers.google.com/web/fundamentals/security/csp/?hl=en
+- [x] Why Meteor doesn't use session cookies (CSRF & cookie tossing): http://info.meteor.com/blog/session-cookies
 - [x] CORS: https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+- [x] SQL injection: http://www.acunetix.com/websitesecurity/sql-injection/
 - [x] Diffie-Hellmann Key Exchange: https://www.youtube.com/watch?v=YEBfamv-_do
 - [x] Book (good): Hacking: The art of exploitation
 - [x] Book (good): Black hat Python: Python programming for hackers and pentesters
