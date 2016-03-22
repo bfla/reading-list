@@ -158,6 +158,7 @@ If you have references to add, please submit pull requests!
 - Meteor Factory: http://meteorfactory.io/
 - Nate Strausser (WeWorkMeteor): http://natestrauser.me/
 - Meteorhacks/Kadira/Bulletproof Meteor: https://kadira.io/academy
+- Meteor Official Partners: https://www.meteor.com/partners/meteorpartners
 
 ## Meteor workflow
 - [x] Easily debugging Meteor.js: http://joshowens.me/easily-debugging-meteor-js/
