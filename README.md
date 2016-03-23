@@ -107,6 +107,11 @@ If you have references to add, please submit pull requests!
 - [x] Ionic vs React Native ("Bus in Time" app with Meteor): https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.nikqc6mns
 - [ ] Video - Meteor + Famo.us: https://www.youtube.com/watch?v=QR-TWyeQuOI
 - [ ] Video - Meteor Desktop apps with Electron: https://www.youtube.com/watch?v=W6SyBU24S7A
+ 
+## React Native starter kits
+- Todos with Meteor: https://github.com/spencercarli/meteor-todos-react-native
+- React Native + Meteor boilerplate (Node DDP): https://github.com/spencercarli/react-native-meteor-boilerplate
+- React Native + Meteor (Objective DDP): https://github.com/hharnisc/react-native-meteor
 
 ## CSS
 - [x] Object-oriented css: https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
@@ -273,7 +278,8 @@ If you have references to add, please submit pull requests!
 - [x] Book (good): *Hackers and Painters: Big Ideas from the Computer Age*
 - [x] Book (good): *Startup CEO: A field guide to scaling up your business*
 - [x] Book (good): *Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist*
-- [ ] Book (good): *The hard thing about hard things*
+- [ ] Book: *The hard thing about hard things*
+- [ ] Book: Rework
 
 ## Similar lists:
 - Eric Elliot's javascript links: https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
