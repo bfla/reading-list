@@ -112,6 +112,7 @@ If you have references to add, please submit pull requests!
 - Todos with Meteor: https://github.com/spencercarli/meteor-todos-react-native
 - React Native + Meteor boilerplate (Node DDP): https://github.com/spencercarli/react-native-meteor-boilerplate
 - React Native + Meteor (Objective DDP): https://github.com/hharnisc/react-native-meteor
+- Minimongo-cache example: https://github.com/hharnisc/react-native-meteor-minimongo-cache
 
 ## CSS
 - [x] Object-oriented css: https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
