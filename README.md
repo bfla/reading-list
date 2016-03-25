@@ -198,6 +198,7 @@ If you have references to add, please submit pull requests!
 - [ ] Advanced performance audits with devtools: http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
 
 ## Code style
+- [ ] ESLint: http://eslint.org/docs/rules/
 - [x] Airbnb: https://github.com/airbnb/javascript
 - [x] Meteorhacks: https://github.com/meteorhacks/code-standards
 
