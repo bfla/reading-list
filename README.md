@@ -199,10 +199,13 @@ If you have references to add, please submit pull requests!
 - [x] Accessibility guidelines: https://www.w3.org/WAI/intro/wcag
 - [ ] Advanced performance audits with devtools: http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
 
-## Code style
+## Code style (Javascript)
 - [ ] ESLint: http://eslint.org/docs/rules/
 - [x] Airbnb: https://github.com/airbnb/javascript
 - [x] Meteorhacks: https://github.com/meteorhacks/code-standards
+
+## Python
+- [ ] Flask + Angular: https://github.com/shea256/angular-flask
 
 ## Security:
 - [x] Ruby on Rails security guide (start here!): http://guides.rubyonrails.org/security.html
