@@ -186,6 +186,7 @@ If you have references to add, please submit pull requests!
 - [x] Does Meteor scale? https://meteorhacks.com/does-meteor-scale.html
 - [x] How to scale Meteor: https://meteorhacks.com/how-to-scale-meteor.html
 - [x] Auditing Meteor Applications: http://justmeteor.com/blog/releasing-our-auditing-meteor-applications-book/
+- [x] Mongo oplogs: http://blog.mlab.com/2014/07/tutorial-scaling-meteor-with-mongodb-oplog-tailing/
 
 ## Analytics (done right!)
 - [x] Startup Metrics for pirates (by Dave McClure!!!): http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version
