@@ -110,7 +110,8 @@ If you have references to add, please submit pull requests!
 - [ ] Video - Meteor Desktop apps with Electron: https://www.youtube.com/watch?v=W6SyBU24S7A
  
 ## React Native starter kits
-- Facebook official Movies example: https://github.com/facebook/react-native/tree/master/Examples/Movies
+- Official examples (Facebook): https://github.com/facebook/react-native/tree/master/Examples/Movies
+- Songkick example: https://github.com/ArnaudRinquin/sk-react-native
 - Todos with Meteor: https://github.com/spencercarli/meteor-todos-react-native
 - React Native + Meteor boilerplate (Node DDP): https://github.com/spencercarli/react-native-meteor-boilerplate
 - React Native + Meteor (Objective DDP): https://github.com/hharnisc/react-native-meteor
