@@ -95,6 +95,7 @@ If you have references to add, please submit pull requests!
 - [x] React Native + Meteor video: https://www.youtube.com/watch?v=7BF5LHn2B5s
 - [x] React Native + Meteor video 2: https://www.youtube.com/watch?v=65HIIXV6fKU
 - [x] React Native Meteor npm package: https://www.npmjs.com/package/react-native-meteor
+- [x] React Native tutorials/blog: http://www.reactnative.com/react-native-experimentation-through-a-songkick-app/
 
 ## Hybrid apps - other (Ionic, Famo.us, Cordova/Phonegap, Electron)
 - [x] Ionic formulas: http://learn.ionicframework.com/formulas/
