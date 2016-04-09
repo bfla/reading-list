@@ -45,6 +45,7 @@ If you have references to add, please submit pull requests!
 - [x] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
 
 ## Separation of concerns (meteor.js)
+- [x] Official Meteor Guide example: https://github.com/meteor/todos
 - [x] Meteor Boilerplate: https://github.com/Differential/meteor-boilerplate
 - [x] Cluster package: https://github.com/meteorhacks/cluster
 
