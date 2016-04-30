@@ -51,8 +51,7 @@ If you have references to add, please submit pull requests!
 - [x] Cluster package: https://github.com/meteorhacks/cluster
 
 ## React.js
-- [ ] Intro to React, Webpack, ES6, Babel, React Router, Redux: https://www.youtube.com/watch?v=DfRibIkjhew
-- [ ] Simplyfying Application State in Javascript: https://www.youtube.com/watch?v=okdC5gcD-dM
+- [x] Simplyfying Application State in Javascript: https://www.youtube.com/watch?v=okdC5gcD-dM
 - [x] Thinking in React: https://facebook.github.io/react/docs/thinking-in-react.html
 - [x] Flux Overview: https://facebook.github.io/flux/docs/overview.html
 - [ ] Redux package: https://github.com/reactjs/redux
