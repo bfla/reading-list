@@ -65,14 +65,15 @@ If you have references to add, please submit pull requests!
 - [ ] Pure React components (example): https://github.com/ericelliott/react-pure-component-starter
 - [ ] The smart parent, dumb child pattern: https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.t21gz0wcn
 - [ ] React+Redux tutorial: http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
+- [ ] Hot reloading in react: https://www.youtube.com/watch?v=xsSnOQynTHs
  
 ## React starter kits
-- [ ] React redux starter kit: https://github.com/davezuko/react-redux-starter-kit
-- [ ] React universal starter kit: https://github.com/erikras/react-redux-universal-hot-example
-- [ ] React slingshot starter kit: https://github.com/coryhouse/react-slingshot
-- [ ] React starter kit (complex): https://github.com/kriasoft/react-starter-kit
-- [ ] React boilerplate: https://github.com/gaearon/react-transform-boilerplate
-- [ ] React transform boilerplate: https://github.com/gaearon/react-transform-boilerplate
+- React universal starter kit: https://github.com/erikras/react-redux-universal-hot-example
+- React redux starter kit: https://github.com/davezuko/react-redux-starter-kit
+- React slingshot starter kit: https://github.com/coryhouse/react-slingshot
+- React starter kit (complex): https://github.com/kriasoft/react-starter-kit
+- React boilerplate: https://github.com/gaearon/react-transform-boilerplate
+- React transform boilerplate: https://github.com/gaearon/react-transform-boilerplate
 
 ## React + Meteor
 - [ ] From Blaze to React (part 1 of 8): https://www.discovermeteor.com/blog/blaze-to-react-01-introduction/ 
