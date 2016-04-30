@@ -52,7 +52,7 @@ If you have references to add, please submit pull requests!
 
 ## React.js
 - [ ] Intro to React, Webpack, ES6, Babel, React Router, Redux: https://www.youtube.com/watch?v=DfRibIkjhew
-- [ ] React Redux Youtube intro: https://www.youtube.com/watch?v=VJ38wSFbM3A
+- [ ] Simplyfying Application State in Javascript: https://www.youtube.com/watch?v=okdC5gcD-dM
 - [x] Thinking in React: https://facebook.github.io/react/docs/thinking-in-react.html
 - [x] Flux Overview: https://facebook.github.io/flux/docs/overview.html
 - [ ] Redux package: https://github.com/reactjs/redux
