@@ -56,7 +56,7 @@ If you have references to add, please submit pull requests!
 - [x] Flux Overview: https://facebook.github.io/flux/docs/overview.html
 - [x] Redux package: https://github.com/reactjs/redux
 - [ ] Getting started with Redux (video series): https://egghead.io/series/getting-started-with-redux
-- [ ] Smart and dumb components: https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.mnj5ih4ri
+- [x] Smart and dumb components: https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.mnj5ih4ri
 - [ ] RESTful UI Rendering: https://www.youtube.com/watch?v=IVvHPPcl2TM
 - [ ] Rethinking App Development at Facebook: https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw
 - [ ] React: Rethinking best practices: https://www.youtube.com/watch?v=x7cQ3mrcKaY
