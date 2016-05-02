@@ -55,6 +55,7 @@ If you have references to add, please submit pull requests!
 - [x] Thinking in React: https://facebook.github.io/react/docs/thinking-in-react.html
 - [x] Flux Overview: https://facebook.github.io/flux/docs/overview.html
 - [x] Redux package: https://github.com/reactjs/redux
+- [ ] React Redux Deep Dive (@connect(), etc): https://www.youtube.com/watch?v=VJ38wSFbM3A
 - [ ] Getting started with Redux (video series): https://egghead.io/series/getting-started-with-redux
 - [x] Smart and dumb components: https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.mnj5ih4ri
 - [ ] RESTful UI Rendering: https://www.youtube.com/watch?v=IVvHPPcl2TM
