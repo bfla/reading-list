@@ -1,4 +1,4 @@
-# Reading list (javascript, full-stack development, startups, UX, and more)
+# Reading list
 If you have references to add, please submit pull requests!
 
 ## Function patterns (javascript)
