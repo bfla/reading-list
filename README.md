@@ -125,6 +125,7 @@ If you have references to add, please submit pull requests!
 - Minimongo-cache example: https://github.com/hharnisc/react-native-meteor-minimongo-cache
 
 ## CSS
+- [ ] Airbnb css style guide: https://github.com/airbnb/css
 - [x] Object-oriented css: https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
 - [x] Guide to flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - [x] Flexy boxes interactive tool: http://the-echoplex.net/flexyboxes/
