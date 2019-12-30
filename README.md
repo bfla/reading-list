@@ -40,6 +40,7 @@ If you have references to add, please submit pull requests!
 - [x] [Understanding process.nextTick()](http://howtonode.org/understanding-process-next-tick)
 - [x] [node.js multithreading](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
 - [x] [node.js versus Java](https://da-14.com/blog/nodejs-vs-java-backend-language-large-software-development)
+- [x] [Express Performance Best Practices](https://expressjs.com/en/advanced/best-practice-performance.html)
 
 ## Front-end separation of concerns: 
 - Module management: Webpacks, Browserify, Isopacks (Meteor)
@@ -229,6 +230,8 @@ If you have references to add, please submit pull requests!
 - [x] Meteorhacks: https://github.com/meteorhacks/code-standards
 
 ## Security:
+- [x] [Express security best practices](https://expressjs.com/en/advanced/best-practice-security.html)
+- [x] [Implementing JWT authentication in node.js](https://www.sohamkamani.com/blog/javascript/2019-03-29-node-jwt-authentication/)
 - [x] Ruby on Rails security guide (start here!): http://guides.rubyonrails.org/security.html
 - [x] Why you should always use HTTPS: https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https?hl=en
 - [x] Prevent mixed content: https://developers.google.com/web/fundamentals/security/prevent-mixed-content/?hl=en
