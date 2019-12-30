@@ -241,6 +241,7 @@ If you have references to add, please submit pull requests!
 - [x] Book (good): Black hat Python: Python programming for hackers and pentesters
 
 ## Machine learning
+- [x] [Series: Getting results from ML and AI](https://www.blackliszt.com/2018/03/getting-results-from-ml-and-ai-1.html)
 - [x] Intro to Machine Learning (Udacity): https://www.udacity.com/courses/ud120
 - [ ] [Getting started with TensorFlow.js](https://medium.com/tensorflow/getting-started-with-tensorflow-js-50f6783489b2?source=---------5-----------------------)
 - [x] [Naive Bayes Document Classification algorithm in JavaScript](https://burakkanber.com/blog/machine-learning-naive-bayes-1/)
