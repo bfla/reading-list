@@ -281,6 +281,8 @@ If you have references to add, please submit pull requests!
 - [ ] *Lean enterprise*
 
 ## Startups
+- [x] [The boring technology behind a one-person internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+- [x] [Bridges and software in peace and war](https://www.blackliszt.com/2012/03/bridges-and-software-in-peace-and-war.html)
 - [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
 - [ ] How to get good at making money (Jason Fried): http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html
 - [ ] 500 Hats: https://500hats.com/
