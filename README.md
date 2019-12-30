@@ -10,8 +10,7 @@ If you have references to add, please submit pull requests!
 - [x] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
 - [x] The Reactive Manifesto: http://www.reactivemanifesto.org/
 - [x] Stream handbook (Node.js): https://github.com/substack/stream-handbook
-- [ ] How I want to Write Node: Stream All Things: http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/
-- [x] Understanding process.nextTick(): http://howtonode.org/understanding-process-next-tick
+- [x] How I want to Write Node: Stream All Things: http://caolan.org/posts/how_i_want_to_write_node_stream_all_the_things_new/
 - [x] Zone.js: https://github.com/angular/zone.js/
 - [x] Highland.js: http://highlandjs.org/
 - [ ] Mostly Adequate guide to functional programming: https://github.com/MostlyAdequate/mostly-adequate-guide
@@ -37,6 +36,11 @@ If you have references to add, please submit pull requests!
 - [x] Book, awesome: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
 - [x] Book, good: *Javascript: The Good Parts* (Douglas Crockford)
 
+## node.js
+- [x] [Understanding process.nextTick()](http://howtonode.org/understanding-process-next-tick)
+- [x] [node.js multithreading](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
+- [x] [node.js versus Java](https://da-14.com/blog/nodejs-vs-java-backend-language-large-software-development)
+
 ## Front-end separation of concerns: 
 - Module management: Webpacks, Browserify, Isopacks (Meteor)
 - Presentation: React, Angular, Backbone
@@ -49,8 +53,10 @@ If you have references to add, please submit pull requests!
 - Feature toggles (flags): For example, https://github.com/ericelliott/feature-toggle?
 
 ## Front-end module management
+- [x] [Yarn](https://yarnpkg.com/en/)
 - [x] Webpack vs Browserify: http://blog.namangoel.com/browserify-vs-webpack-js-drama
 - [x] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
+
 
 ## Separation of concerns (meteor.js)
 - [x] Official Meteor Guide example: https://github.com/meteor/todos
@@ -218,12 +224,9 @@ If you have references to add, please submit pull requests!
 - [ ] Advanced performance audits with devtools: http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
 
 ## Code style (Javascript)
-- [ ] ESLint: http://eslint.org/docs/rules/
+- [x] ESLint: http://eslint.org/docs/rules/
 - [x] Airbnb: https://github.com/airbnb/javascript
 - [x] Meteorhacks: https://github.com/meteorhacks/code-standards
-
-## Python
-- [ ] Flask + Angular: https://github.com/shea256/angular-flask
 
 ## Security:
 - [x] Ruby on Rails security guide (start here!): http://guides.rubyonrails.org/security.html
@@ -239,6 +242,11 @@ If you have references to add, please submit pull requests!
 
 ## Machine learning
 - [x] Intro to Machine Learning (Udacity): https://www.udacity.com/courses/ud120
+- [ ] [Getting started with TensorFlow.js](https://medium.com/tensorflow/getting-started-with-tensorflow-js-50f6783489b2?source=---------5-----------------------)
+- [x] [Naive Bayes Document Classification algorithm in JavaScript](https://burakkanber.com/blog/machine-learning-naive-bayes-1/)
+- [x] [kmeans clustering algorithm in Javascript](https://burakkanber.com/blog/machine-learning-k-means-clustering-in-javascript-part-1/)
+- [x] [k-nearest neightbor in Javascript](https://burakkanber.com/blog/machine-learning-in-js-k-nearest-neighbor-part-1/)
+- [x] [forestjs](https://github.com/karpathy/forestjs)
 - [x] Top 10 data mining algorithms: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 - [x] Intro to Hadoop and mapreduce (Udacity): https://www.udacity.com/courses/ud617
 - [ ] Deep Learning (Udacity): https://www.udacity.com/course/deep-learning--ud730
@@ -264,13 +272,13 @@ If you have references to add, please submit pull requests!
 - [ ] TODO: Add sublime text cheatsheet, packages, and my own snippets...)
 - [x] Interactive vim tutorial (in case you need to edit code on a server): http://www.openvim.com/
 - [x] Become a command line ninja with these shortcuts: http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
-- [ ] Debug node.js like a pro: https://greenido.wordpress.com/2013/08/27/debug-nodejs-like-a-pro/
+- [x] Debug node.js like a pro: https://greenido.wordpress.com/2013/08/27/debug-nodejs-like-a-pro/
 - [x] The Single Biggest Mistake Programmers Make Every Day: https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.pkb8w9bmb
 - [x] Book (mediocre): *Continuous Delivery*
 
 ## Teamwork & management
 - [x] 5 Dysfunctions of a Team (very important!): http://www.tablegroup.com/books/dysfunctions
-- [ ] Thoughtbot playbook: http://playbook.thoughtbot.com/
+- [x] Thoughtbot playbook: http://playbook.thoughtbot.com/
 - [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
 - [x] Book (awesome): *Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All*: `Greatness = (fanatical discipline + empirical creativity + productive paranoia) * level-5 ambition`
 - [x] How to Build a High Velocity Development Team: https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xhm6yaed4
@@ -288,12 +296,14 @@ If you have references to add, please submit pull requests!
 - [ ] *Lean enterprise*
 
 ## Startups
-- [x] [The boring technology behind a one-person internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 - [x] [Bridges and software in peace and war](https://www.blackliszt.com/2012/03/bridges-and-software-in-peace-and-war.html)
 - [x] Book (awesome): *Getting Real: The smarter, faster, easier way to build a successful web application*
+- [x] [The boring technology behind a one-person internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+- [x] Startup Essays: http://www.paulgraham.com/articles.html
+- [x] [Don't talk to corp dev](http://www.paulgraham.com/corpdev.html)
+- [x] [startup = growth](http://www.paulgraham.com/growth.html)
 - [ ] How to get good at making money (Jason Fried): http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html
 - [ ] 500 Hats: https://500hats.com/
-- [x] Startup Essays: http://www.paulgraham.com/articles.html
 - [ ] Google Ventures Library: http://www.gv.com/library/
 - [x] Book (good): *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*
 - [ ] Book (good): *Startup CEO: Startup CEO: A Field Guide to Scaling Up Your Business, + Website*
