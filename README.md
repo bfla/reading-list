@@ -3,10 +3,9 @@ If you have references to add, please submit pull requests!
 
 ## Function patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 2 Functional Programming: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.59fwtwkyd 
-- [x] Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
-- [ ] Netflix training (The 'Observable' pattern): http://reactivex.io/learnrx/
 - [x] The Dao of immutability: https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.1ild14y75
-- [x] Reactive Extensions for Javascript: https://github.com/Reactive-Extensions/RxJS
+- [x] [lodash](https://lodash.com/docs/4.17.15)
+- [x] [lodash FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
 - [x] Practical Functional Programming: https://www.youtube.com/watch?v=XcS-LdEBUkE
 - [x] What is Reactive programming? https://www.youtube.com/watch?v=dwP1TNXE6fc
 - [x] The Reactive Manifesto: http://www.reactivemanifesto.org/
@@ -22,8 +21,17 @@ If you have references to add, please submit pull requests!
 - [x] Book (awesome): *Programming Javascript Applications* (Eric Elliott) (Chapter 2)
 - [x] Book (good): *Javascript: The Good Parts* (Douglas Crockford)
 
+## Observable (RxJS) patterns
+- [x] [RxJS](https://rxjs-dev.firebaseapp.com/api)
+- [x] [On the Subject of Subjects](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
+- [x] [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52)
+- [x] [Hot vs Cold observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
+- [x] Asynchronous Programming at Netflix: https://www.youtube.com/watch?v=gawmdhCNy-A
+- [x] Netflix training (The 'Observable' pattern): http://reactivex.io/learnrx/
+
 ## Object patterns (javascript)
 - [x] 2 Pillars of Javascript -- Pt. 1 Prototypes: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.r88iebivl
+- [x] [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b?source=search_post---------3)
 - [x] Classical Inheritence is Obsolete: How to Think Prototype OO: https://vimeo.com/69255635
 - [x] The Heart & Soul of Prototypal OO: Concatenative Inheritance: https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.uyq3xugqm
 - [x] Book, awesome: *Programming Javascript Applications* (Eric Elliott) (Chapter 3)
@@ -41,7 +49,6 @@ If you have references to add, please submit pull requests!
 - Feature toggles (flags): For example, https://github.com/ericelliott/feature-toggle?
 
 ## Front-end module management
-- [ ] Browserify handbook: https://github.com/substack/browserify-handbook
 - [x] Webpack vs Browserify: http://blog.namangoel.com/browserify-vs-webpack-js-drama
 - [x] Javascript fatigue (cobbling together javascript apps): https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.fajfql770
 
