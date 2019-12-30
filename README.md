@@ -230,6 +230,7 @@ If you have references to add, please submit pull requests!
 - [x] Meteorhacks: https://github.com/meteorhacks/code-standards
 
 ## Security:
+- [x] [I am harvesting credit card numbers and passwords from your site. Here's how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 - [x] [Express security best practices](https://expressjs.com/en/advanced/best-practice-security.html)
 - [x] [Implementing JWT authentication in node.js](https://www.sohamkamani.com/blog/javascript/2019-03-29-node-jwt-authentication/)
 - [x] Ruby on Rails security guide (start here!): http://guides.rubyonrails.org/security.html
